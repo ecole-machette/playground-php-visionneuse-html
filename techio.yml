@@ -2,6 +2,8 @@ title: PHP et HTML
 plan:
 - title: PHP et visionneuse HTML
   statement: markdowns/php-html.md
+- title: Séparation des langages
+  statement: markdowns/multi-fichiers.md
 - title: PHP on Tech.io
   statement: markdowns/welcome.md
 projects:
