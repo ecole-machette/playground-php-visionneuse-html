@@ -23,4 +23,6 @@ $var = '
 
 <?php 
 ';
+
+echo $var;
 ?>
