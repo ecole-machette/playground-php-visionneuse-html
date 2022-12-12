@@ -9,7 +9,7 @@
 <body>
     <style><?php include("stylesheet.css"); ?></style>
     <?php include("contenu.html"); ?>
-    <script language="JavaScript"><?php include("javascript.js"); ?></script>
     <?php include("code.php"); ?>
+    <script language="JavaScript"><?php include("javascript.js"); ?></script>
 </body>
 </html>
