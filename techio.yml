@@ -4,6 +4,8 @@ plan:
   statement: markdowns/php-html.md
 - title: Séparation des langages
   statement: markdowns/multi-fichiers.md
+- title: Exercice avec test
+  statement: markdowns/exercice3.md
 - title: PHP on Tech.io
   statement: markdowns/welcome.md
 projects:
