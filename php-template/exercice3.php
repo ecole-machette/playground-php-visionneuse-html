@@ -1,5 +1,5 @@
 <?php 
-$var = "
+$var = '
 
 ?>
 
@@ -11,16 +11,16 @@ $var = "
 
 <img class="immeuble"
      src="https://raw.githubusercontent.com/ecole-machette/playground-u4fi09wi/master/images/immeuble-toit.jpeg"
-     alt="Toit de l'immeuble">
+     alt="Toit de l immeuble">
 
 <img class="immeuble"
      src="https://raw.githubusercontent.com/ecole-machette/playground-u4fi09wi/master/images/immeuble-etage.jpeg"
-     alt="Étage de l'immeuble">
+     alt="Étage de l immeuble">
 
 <img class="immeuble"
      src="https://raw.githubusercontent.com/ecole-machette/playground-u4fi09wi/master/images/immeuble-sol.jpeg"
-     alt="Rez-de-chaussée et premier étage de l'immeuble">
+     alt="Rez-de-chaussée et premier étage de l immeuble">
 
 <?php 
-";
+';
 ?>
