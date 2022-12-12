@@ -9,3 +9,12 @@ plan:
   statement: markdowns/php-html.md
 ```
 
+# Création d'un exercice avec visionneuse
+
++ Créer un fichier `.php` dans le dossier `php-template` avec du code HTML et PHP
++ L'appeler dans cette page en tapant dans le fichier `.md` :
+```
+@[Nom de l'exercice]({"stubs": ["visionneuse.php"], "command": "/bin/bash run.sh visionneuse.php"})
+```
+
+@[Nom de l'exercice]({"stubs": ["visionneuse.php"], "command": "/bin/bash run.sh visionneuse.php"})
