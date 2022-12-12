@@ -12,3 +12,9 @@
 ```
 
 @[Exercice avec les langages séparés]({"stubs": ["index.php","stylesheet.css","contenu.html","javascript.js","code.php"], "command": "/bin/bash run.sh index.php"})
+
+@[Exercice sans afficher le contenu du fichier index.php]({"stubs": ["stylesheet.css","contenu.html","javascript.js","code.php"], "command": "/bin/bash run.sh index.php"})
+
+```
+@[Exercice sans afficher le contenu du fichier index.php]({"stubs": ["stylesheet.css","contenu.html","javascript.js","code.php"], "command": "/bin/bash run.sh index.php"})
+```
