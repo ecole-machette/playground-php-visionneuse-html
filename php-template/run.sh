@@ -1,4 +1,4 @@
-echo "TECHIO> redirect-streams 'Output'"
+echo "TECHIO> redirect-streams 'Sortie brut'"
 php $1
 
 echo

@@ -16,5 +16,20 @@ plan:
 ```
 @[Nom de l'exercice]({"stubs": ["visionneuse.php"], "command": "/bin/bash run.sh visionneuse.php"})
 ```
++ Modifier le runner dans le fichier `.sh` comme suite :
+```
+echo "TECHIO> redirect-streams 'Sortie brut'"
+php $1
+
+echo
+
+php $1 > output.html
+echo "TECHIO> open -s /project/target/ output.html"
+```
 
 @[Nom de l'exercice]({"stubs": ["visionneuse.php"], "command": "/bin/bash run.sh visionneuse.php"})
+
+## Documentations
+
++ Redirection de la sortie : [redirect-streams](https://www.codingame.com/playgrounds/408/tech-io-documentation/redirect-streams)
++ Visionneuse : [open](https://www.codingame.com/playgrounds/408/tech-io-documentation/open)

@@ -18,7 +18,7 @@
     </style>
     <h1 class="cool">Hello</h1>
     <?php
-    echo "<p>Du html généré par du php</p>";
+    echo "<p>Du html généré par du php.</p>";
     ?>
 </body>
 </html>
