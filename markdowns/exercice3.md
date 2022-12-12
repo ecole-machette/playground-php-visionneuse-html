@@ -1,3 +1,5 @@
 # Exercice avec traitement
 
+Ajoutez 2 étages à l'immeuble.
+
 @[Construire un immeuble]({"stubs": ["exercice3.php"], "command": "/bin/bash run.sh exercice3.php"})
