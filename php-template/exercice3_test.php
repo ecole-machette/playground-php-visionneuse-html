@@ -1,5 +1,5 @@
 <?php
-    $string = include 'exo1.php';
+    $string = include 'exercice3.php';
     $nb_string = mb_substr_count($string, "immeuble-etage.jpeg");
 
     if($nb_string == 3){
