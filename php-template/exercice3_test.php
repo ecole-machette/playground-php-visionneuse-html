@@ -13,6 +13,5 @@
 		// echo("<p class='message'>" . "TECHIO> message --channel Perdu! Regarde bien quelle image correspond à un étage. \r\n" . "</p>");
         echo("TECHIO> success false  \r\n");        
 		echo("TECHIO> message --channel Perdu! Regarde bien quelle image correspond à un étage. \r\n");
-
     }
 ?>
