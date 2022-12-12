@@ -1,7 +1,7 @@
 <?php
     include 'exercice3.php';
     $string = "azer";
-    echo "<p>$var : </p>";
+    echo "<p>var dans exercice3_test : </p>";
     echo $var;
     echo "</br>";
     $nb_string = mb_substr_count($var, "immeuble-etage.jpeg");

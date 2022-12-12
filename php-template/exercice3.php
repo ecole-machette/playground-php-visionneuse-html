@@ -1,7 +1,6 @@
 <?php 
 $var = '
 
-?>
 
 <style>
     img.immeuble {
@@ -21,7 +20,6 @@ $var = '
      src="https://raw.githubusercontent.com/ecole-machette/playground-u4fi09wi/master/images/immeuble-sol.jpeg"
      alt="Rez-de-chaussée et premier étage de l immeuble">
 
-<?php 
 ';
 
 echo $var;
