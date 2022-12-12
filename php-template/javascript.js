@@ -1,3 +1,10 @@
+let b = document.body;
+let newH = document.createElement('h1');
+newH.textContent = 'Partie CSS';
+b.prepend(newH);
+
+document.write('<h1 class="info">Partie Javascript</h1>');
+
 function printit(){
     if (NS) {
         window.print() ;
