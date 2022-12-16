@@ -29,6 +29,11 @@ echo "TECHIO> open -s /project/target/ output.html"
 
 @[Nom de l'exercice]({"stubs": ["visionneuse.php"], "command": "/bin/bash run.sh visionneuse.php"})
 
+# Durée de vie de la visionneuse
+
+La visionneuse a une durée de vie de 2 minutes après la dernière requête effectuée. Son début de vie commence à partir du moment où on clique sur `RUN`. Le compte à rebour se remet à 0 à chaque fois qu'on clique.
+Il semble tout de même qu'il n'y ait pas de problème quand on reste sur la page du test. Ça arrive peut-être quand on est sur un autre onglet du navigateur. `A élucider`
+
 ## Documentations
 
 + Redirection de la sortie : [redirect-streams](https://www.codingame.com/playgrounds/408/tech-io-documentation/redirect-streams)
